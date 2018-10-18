@@ -1,0 +1,11 @@
+documentation:
+  swagger:
+    services:
+      -
+        name: Name 1
+        url: http://myapp.com/v2/api-docs
+        version: 2.0
+      -
+        name: Name 2
+        url: /static/teste.json
+        version: 2.0
